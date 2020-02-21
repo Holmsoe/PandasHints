@@ -1,0 +1,12 @@
+Line,Text,Sum,Nature,Distribution,Country,Customer,Ship-to,Material,Process,MD Use,Year,Month
+1,Hydrate,,,,,,,87 92 2160,,,2019,6
+2,Sorbacal SP,,,,,,,96,,,2019,6
+3,Sorbacal mix,,,,,,,3298,,,2019,6
+4,Soil Stabilisation,,B,G,,,,,,,2019,6
+5,Dankalk,,B,M,,,,,,,2019,6
+6,Novozymes,,B,D,,,,3289,,,2019,6
+7,Other,8 -1 -2 -3 -4 -5 -6,,,,,, ,,,2019,6
+8,Total,,B,,,,,,,,2019,6
+9,Ground,,U,,,,,,Mixed Natural,,2019,6
+10,Milled,,U,,,,,,Milled Drying,,2019,6
+11,Total,9 10, ,,,,,,,,2019,6

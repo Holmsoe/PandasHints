@@ -1,0 +1,12 @@
+Line;Text;Sum;Year;Month;Nature;Distribution;Country;Customer;Ship-to;Material;Process;MD Use
+1;Hydrate;;2019;6;;;;;;87 92 2160;;
+2;Sorbacal SP;;2019;6;;;;;;96;;
+3;Sorbacal mix;;2019;6;;;;;;3298;;
+4;Soil Stabilisation;;2019;6;;G;;;;;;
+5;Dankalk;;2019;6;B;M;;;;;;
+6;Novozymes;;2019;6;B;D;;;;3289;;
+7;Other;8 -1 -2 -3 -4 -5 -6;2019;6;;;;;; ;;
+8;Total;;2019;6;B;;;;;;;
+9;Ground;;2019;6;U;;;;;;Mixed Natural;
+10;Milled;;2019;6;U;;;;;;Milled Drying;
+11;Total;9 10;2019;6; ;;;;;;;
